@@ -6,6 +6,7 @@ int main(int argc, char *argv[])
     int a;
     int b;
     int c;
+    int uids0979;
     int uids0944;
     return 0;
 }
